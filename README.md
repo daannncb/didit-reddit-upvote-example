@@ -48,3 +48,9 @@ The project is a work in progress and is not yet complete.
 - [ ] User flair
 
 ## Reflections
+
+I managed to get deployed very quickly by addressing the immediate error when trying to run the server locally, and configuring the OAuth GitHub signin and Next auth.
+
+Once deployed, I took a look at getting the session.user.name to display properly. Logging the data shows null, but this seemed like a larger task than setting up a user profile page.
+
+I've made a start on this, but currently don't have a way to edit the bio section on the user profile. There was a lot of chatting going on in the breakout so I didn't get a tremendous amount done on the stretch goals.
