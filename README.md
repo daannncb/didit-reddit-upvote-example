@@ -54,3 +54,7 @@ I managed to get deployed very quickly by addressing the immediate error when tr
 Once deployed, I took a look at getting the session.user.name to display properly. Logging the data shows null, but this seemed like a larger task than setting up a user profile page.
 
 I've made a start on this, but currently don't have a way to edit the bio section on the user profile. There was a lot of chatting going on in the breakout so I didn't get a tremendous amount done on the stretch goals.
+
+I did create a dynamic route for this but filled the parts I would have written with more time with comments.
+
+Overall, it was really quite fun getting to look at someone elses code and try and figure out what's what, how to add to it, how the components interact etc.
